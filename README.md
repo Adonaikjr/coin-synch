@@ -38,7 +38,7 @@ Juntei os dois arrays de objetos que a api me retorna filtrei por um array de as
 - Eslint
 - Typescript
 - Framer-motion
-- Hamgurger-react
+- Hamburger-react
 - Styled-components
 
 
