@@ -28,7 +28,7 @@ Juntei os dois arrays de objetos que a api me retorna filtrei por um array de as
 ![image](https://github.com/Adonaikjr/coin-synch/assets/90911791/ec00957d-356a-442b-98f4-93b9425d705b)
 ![image](https://github.com/Adonaikjr/coin-synch/assets/90911791/4278d7a5-9dbc-4195-9e3e-696bc4b4e28c)
 
-## Funcionalidades
+## Technologias
 
 - Vite
 - Json-Server
