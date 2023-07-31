@@ -29,6 +29,7 @@ export const NavigateBack = styled.div`
   align-items: center;
   justify-content: center;
   gap: 24px;
+  font-family: ${(props) => props.theme.FONT_FAMILY.REGULAR};
   > img {
     width: 124px;
     height: 21px;

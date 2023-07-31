@@ -8,9 +8,8 @@ export const GlobalStyle = createGlobalStyle`
     }    
     body{
         margin: 0 auto;
-        color: ${({ theme }) => theme.font_color};
         width: 100%;
-        font-family: ${(props) => props.theme.font_poppins};
+         font-family: ${(props) => props.theme.FONT_FAMILY.REGULAR};
         a{
             text-decoration: none;
         }
