@@ -48,19 +48,12 @@ export const ContainerContentSection = styled.div<propsSection>`
   }
   h1 {
     width: 100%;
-    font-family: ${(props) => props.theme.font_poppins};
-    font-weight: ${(props) => props.theme.font_600_semiBold};
     text-align: center;
-    color: ${(props) => props.theme.white};
   }
 
   p {
-    font-size: ${(props) => props.theme.font_p};
-    font-family: ${(props) => props.theme.font_poppins};
-    font-weight: ${(props) => props.theme.fonts_400};
     padding: 0.5rem 1rem;
     text-align: center;
-    color: ${(props) => props.theme.white};
   }
   img {
     width: 30rem;

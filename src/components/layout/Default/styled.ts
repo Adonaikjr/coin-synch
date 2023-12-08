@@ -13,8 +13,6 @@ export const ContainerLoading = styled.div`
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  background-color: ${(props) => props.theme.black};
-  color: ${(props) => props.theme.white};
   @media (max-width: 900px) {
     img {
       width: 90%;

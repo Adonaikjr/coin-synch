@@ -15,8 +15,6 @@ export const ContainerButton = styled.button`
   height: 3rem;
   padding: 14px 24px;
   :hover {
-    background-color: ${(props) => props.theme.font_color};
-    color: ${(props) => props.theme.base_border};
     transition: 0.5s;
     transform: scale(1.03);
   }
